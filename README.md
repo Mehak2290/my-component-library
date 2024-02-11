@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# My Component Library
+
+## Running the Web Application
+
+1. Build the Docker image:
+
+   ```bash
+   docker build -t kaur_mehakdeep_coding_assignment12 .
